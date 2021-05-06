@@ -1,9 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\03. Intro to CSS",
-    "\\09. Career Services"
+    "\\03. Intro to CSS\\Containers",
+    "\\03. Intro to CSS\\Flexbox",
+    "\\03. Intro to CSS\\Flexbox Practice",
+    "\\03. Intro to CSS\\Font Shorthand",
+    "\\03. Intro to CSS\\Fonts",
+    "\\03. Intro to CSS\\Meaning",
+    "\\03. Intro to CSS\\tictactoe",
+    "\\04. Intro to Python, Part 1",
+    "\\04. Intro to Python, Part 1\\03 Turtles"
   ],
-  "SelectedNode": "\\03. Intro to CSS\\multiple_styles.html",
+  "SelectedNode": "\\04. Intro to Python, Part 1\\03 Turtles\\one.py",
   "PreviewInSolutionExplorer": false
 }
