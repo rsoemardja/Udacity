@@ -1,16 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\03. Intro to CSS\\Containers",
-    "\\03. Intro to CSS\\Flexbox",
-    "\\03. Intro to CSS\\Flexbox Practice",
-    "\\03. Intro to CSS\\Font Shorthand",
-    "\\03. Intro to CSS\\Fonts",
-    "\\03. Intro to CSS\\Meaning",
-    "\\03. Intro to CSS\\tictactoe",
     "\\04. Intro to Python, Part 1",
-    "\\04. Intro to Python, Part 1\\03 Turtles"
+    "\\04. Intro to Python, Part 1\\01 Turtles and Code",
+    "\\04. Intro to Python, Part 1\\01 Turtles and Code\\15 Loops",
+    "\\04. Intro to Python, Part 1\\01 Turtles and Code\\18 Lists and Variables",
+    "\\04. Intro to Python, Part 1\\01 Turtles and Code\\19 Lists and loops",
+    "\\04. Intro to Python, Part 1\\01 Turtles and Code\\21 Mystery shape",
+    "\\04. Intro to Python, Part 1\\03 Functions Part 2"
   ],
-  "SelectedNode": "\\04. Intro to Python, Part 1\\03 Turtles\\one.py",
+  "SelectedNode": "\\04. Intro to Python, Part 1\\01 Turtles and Code\\21 Mystery shape\\mystery.py",
   "PreviewInSolutionExplorer": false
 }
