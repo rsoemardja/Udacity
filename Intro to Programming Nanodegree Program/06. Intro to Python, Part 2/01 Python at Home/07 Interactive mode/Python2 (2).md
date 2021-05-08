@@ -1,0 +1,1 @@
+Use exit(), Ctrl-D (Mac) or Ctrl-Z (Windows) is to close in shell mode in python

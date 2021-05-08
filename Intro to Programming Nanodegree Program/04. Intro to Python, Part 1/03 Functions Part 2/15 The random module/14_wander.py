@@ -1,0 +1,22 @@
+import turtle
+import random
+
+colors = ["red", "orange", "yellow", "green", "blue", "purple"]
+
+t = turtle.Turtle()
+t.width(20)
+
+for step in range(100):
+    # Change this to use a random number.
+    #angle = 45
+    angle = random.randint(-90,90)
+
+    # Change this to use a random color.
+    #color = "red"
+    color = random.choice(colors)
+
+    t.color(color)
+    t.right(angle)
+    t.forward(10)
+
+
