@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\04. Intro to Python, Part 1",
-    "\\04. Intro to Python, Part 1\\01 Turtles and Code",
-    "\\04. Intro to Python, Part 1\\02 Functions Part 1",
-    "\\04. Intro to Python, Part 1\\02 Functions Part 1\\03 range",
     "\\06. Intro to Python, Part 2",
-    "\\06. Intro to Python, Part 2\\01 Python at Home",
     "\\06. Intro to Python, Part 2\\02 Strings & Lists Part 1",
-    "\\06. Intro to Python, Part 2\\03 Strings & Lists Part 2",
-    "\\06. Intro to Python, Part 2\\03 Strings & Lists Part 2\\4 Crunching 1"
+    "\\06. Intro to Python, Part 2\\02 Strings & Lists Part 1\\07 Counting things 2",
+    "\\06. Intro to Python, Part 2\\02 Strings & Lists Part 1\\08 Indexing",
+    "\\08. Intro to JavaScript",
+    "\\08. Intro to JavaScript\\02 Data Types & Variables",
+    "\\08. Intro to JavaScript\\02 Data Types & Variables\\12 Favorite Food",
+    "\\08. Intro to JavaScript\\02 Data Types & Variables\\13 String Equailty",
+    "\\08. Intro to JavaScript\\02 Data Types & Variables\\14 All Tied Up"
   ],
-  "SelectedNode": "\\06. Intro to Python, Part 2\\03 Strings & Lists Part 2\\4 Crunching 1\\mystery.py",
+  "SelectedNode": "\\06. Intro to Python, Part 2\\02 Strings & Lists Part 1\\08 Indexing\\starts_with.py",
   "PreviewInSolutionExplorer": false
 }
