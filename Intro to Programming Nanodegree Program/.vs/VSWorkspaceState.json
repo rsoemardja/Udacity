@@ -2,15 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\06. Intro to Python, Part 2",
-    "\\06. Intro to Python, Part 2\\02 Strings & Lists Part 1",
-    "\\06. Intro to Python, Part 2\\02 Strings & Lists Part 1\\07 Counting things 2",
-    "\\06. Intro to Python, Part 2\\02 Strings & Lists Part 1\\08 Indexing",
-    "\\08. Intro to JavaScript",
-    "\\08. Intro to JavaScript\\02 Data Types & Variables",
-    "\\08. Intro to JavaScript\\02 Data Types & Variables\\12 Favorite Food",
-    "\\08. Intro to JavaScript\\02 Data Types & Variables\\13 String Equailty",
-    "\\08. Intro to JavaScript\\02 Data Types & Variables\\14 All Tied Up"
+    "\\06. Intro to Python, Part 2\\02 Strings & Lists Part 1\\17 Strings to numbers",
+    "\\06. Intro to Python, Part 2\\03 Strings & Lists Part 2",
+    "\\06. Intro to Python, Part 2\\03 Strings & Lists Part 2\\01 Operations on lists",
+    "\\06. Intro to Python, Part 2\\03 Strings & Lists Part 2\\05 while loops",
+    "\\08. Intro to JavaScript"
   ],
-  "SelectedNode": "\\06. Intro to Python, Part 2\\02 Strings & Lists Part 1\\08 Indexing\\starts_with.py",
+  "SelectedNode": "\\06. Intro to Python, Part 2\\03 Strings & Lists Part 2\\05 while loops\\while loops 1.md",
   "PreviewInSolutionExplorer": false
 }
