@@ -2,12 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\06. Intro to Python, Part 2",
-    "\\06. Intro to Python, Part 2\\02 Strings & Lists Part 1\\17 Strings to numbers",
-    "\\06. Intro to Python, Part 2\\03 Strings & Lists Part 2",
-    "\\06. Intro to Python, Part 2\\03 Strings & Lists Part 2\\01 Operations on lists",
-    "\\06. Intro to Python, Part 2\\03 Strings & Lists Part 2\\05 while loops",
-    "\\08. Intro to JavaScript"
+    "\\06. Intro to Python, Part 2\\04 Style &  Structure",
+    "\\06. Intro to Python, Part 2\\04 Style &  Structure\\07 B bot 3",
+    "\\06. Intro to Python, Part 2\\04 Style &  Structure\\08 B bot 4",
+    "\\08. Intro to JavaScript",
+    "\\08. Intro to JavaScript\\03 Conditionals"
   ],
-  "SelectedNode": "\\06. Intro to Python, Part 2\\03 Strings & Lists Part 2\\05 while loops\\while loops 1.md",
+  "SelectedNode": "\\06. Intro to Python, Part 2\\04 Style &  Structure\\07 B bot 3\\order_breakfast.py",
   "PreviewInSolutionExplorer": false
 }
