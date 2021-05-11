@@ -12,8 +12,7 @@ print_pause("The second is sweet potato pancakes with butter and syrup.")
 
 while True:
     while True:
-        response = input("Please place your order. "
-                         "Would you like waffles or pancakes?\n").lower()
+        response = input("Please place your order.  Would you like waffles or pancakes?\n").lower()
         if "waffles" in response:
             print_pause("Waffles it is!")
             break
@@ -24,8 +23,7 @@ while True:
             print_pause("Sorry, I don't understand.")
     print_pause("Your order will be ready shortly.")
     while True:
-        order_again = input("Would you like to place another order? "
-                            "Please say 'yes' or 'no'.\n").lower()
+        order_again = input("Would you like to place another order? Please say 'yes' or 'no'.\n").lower()
         if "no" in order_again:
             print_pause("OK, goodbye!")
             break
