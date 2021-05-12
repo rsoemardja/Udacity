@@ -11,7 +11,7 @@ def intro():
     print_pause("You are in the elevator.")
 
 
-def first_floor(items):
+def first_floor():
     print_pause("You push the button for the first floor.")
     print_pause("After a few moments, you find "
                 "yourself in the lobby.")
@@ -27,7 +27,7 @@ def first_floor(items):
     ride_elevator()
 
 
-def second_floor(items):
+def second_floor():
     print_pause("You push the button for the second floor.")
     print_pause("After a few moments, you find yourself "
                 "in the human resources department.")
@@ -47,7 +47,7 @@ def second_floor(items):
     ride_elevator()
 
 
-def third_floor(items):
+def third_floor():
     print_pause("You push the button for the third floor.")
     print_pause("After a few moments, you find yourself "
                 "in the engineering department.")
