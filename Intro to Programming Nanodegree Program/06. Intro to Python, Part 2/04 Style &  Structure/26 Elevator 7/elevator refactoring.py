@@ -69,4 +69,17 @@ while True:
                         "key card to open the door.")
             print_pause("You head back to the elevator.")
 
+while True:
+    print_pause("Please enter the number for the "
+                "floor you would like to visit:")
+    floor = input("1. Lobby\n"
+                  "2. Human resources\n"
+                  "3. Engineering department\n")
+    if floor == '1':
+        first_floor()
+    elif floor == '2':
+        second_floor()
+    elif floor == '3':
+        third_floor()
+
     print_pause("Where would you like to go next?")
