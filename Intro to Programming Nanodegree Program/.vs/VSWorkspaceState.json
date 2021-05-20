@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\06. Intro to Python, Part 2",
-    "\\06. Intro to Python, Part 2\\04 Style &  Structure",
-    "\\06. Intro to Python, Part 2\\04 Style &  Structure\\24 Elevator 5",
-    "\\06. Intro to Python, Part 2\\04 Style &  Structure\\25 Elevator 6",
-    "\\06. Intro to Python, Part 2\\04 Style &  Structure\\26 Elevator 7",
-    "\\06. Intro to Python, Part 2\\04 Style &  Structure\\27 Elevator 8",
-    "\\06. Intro to Python, Part 2\\04 Style &  Structure\\28 Elevator 9",
-    "\\06. Intro to Python, Part 2\\04 Style &  Structure\\29 Elevator 10",
-    "\\06. Intro to Python, Part 2\\04 Style &  Structure\\30 Elevator 11"
+    "\\08. Intro to JavaScript",
+    "\\08. Intro to JavaScript\\04 Loops",
+    "\\08. Intro to JavaScript\\04 Loops\\09 Nested Loops",
+    "\\08. Intro to JavaScript\\04 Loops\\10 Increment and Decrement",
+    "\\08. Intro to JavaScript\\04 Loops\\11 Changing the Loop",
+    "\\08. Intro to JavaScript\\04 Loops\\12 Fix the Error 1",
+    "\\08. Intro to JavaScript\\04 Loops\\13 Fix the Error 2",
+    "\\08. Intro to JavaScript\\04 Loops\\14 Factorials!",
+    "\\08. Intro to JavaScript\\04 Loops\\15 Find my Seat"
   ],
-  "SelectedNode": "\\06. Intro to Python, Part 2\\04 Style &  Structure\\25 Elevator 6\\elevator.py",
+  "SelectedNode": "\\08. Intro to JavaScript\\04 Loops\\15 Find my Seat\\Find my Seat Solution.js",
   "PreviewInSolutionExplorer": false
 }
