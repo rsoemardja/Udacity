@@ -1,0 +1,13 @@
+﻿<!-- This is the Error-->
+<Text View=""
+    android:text="Hapy Birthday"
+    android:layout_width="150dp"
+    android:layout_height="150"
+    android:background="@android:color/darker_groy"
+>
+  <!--This is the Solution-->
+  <TextView="" 
+    android:text="Happy Birthday"
+    android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:background="@android:color/darker_grey"/>

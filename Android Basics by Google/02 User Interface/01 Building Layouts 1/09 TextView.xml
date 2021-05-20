@@ -1,0 +1,5 @@
+﻿<TextView
+    android:text="Happy Birthday to my mother who is very lovely!"
+    android:background="@android:color/darker_gray"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />

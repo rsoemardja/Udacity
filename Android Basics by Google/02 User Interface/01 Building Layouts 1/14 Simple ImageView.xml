@@ -1,0 +1,7 @@
+﻿<TextView
+    android:src="@drawable/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:scaleType="center"/>
+<!--With textAppearance if you don't know what sp values you want with
+text Size you can set it to small medium or large-->
