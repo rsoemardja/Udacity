@@ -1,0 +1,9 @@
+﻿<TextView
+    android:text="Happy Birthday!"
+    android:background="@android:color/darker_gray"
+    android:textColor="#0000F0"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:textAppearance="?android:textAppearanceLarge"/>
+<!--With textAppearance if you don't know what sp values you want with
+text Size you can set it to small medium or large-->
